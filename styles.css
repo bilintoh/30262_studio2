@@ -3,7 +3,7 @@ ul {
  margin: 1px;
  padding: 1px;
  overflow: hidden;
- background-color: white;
+ background-color: #FFEBCD;
 }
 
 li {
@@ -26,9 +26,9 @@ li a {
 
 /* Links will change color when hovered over */
 li a:hover {
- background-color: #a09f9f;
+ background-color: #D2691E;
 }
 
 .active {
- background-color: #a09f9f;
+ background-color: #D2691E;
 }
